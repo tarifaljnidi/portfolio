@@ -2152,7 +2152,9 @@ img.svg{
 	clear: both;
 	float: left;
 	margin-bottom: 50px;
-
+	display: flex;
+     align-items: center;
+     justify-content: center;
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
 			box-sizing: border-box; /* Opera/IE 8+ */
@@ -2160,14 +2162,16 @@ img.svg{
 .arlo_tm_portfolio_single_wrap .images_list ul{
 	margin: 0px;
 	list-style-type: none;
+
 }
 .arlo_tm_portfolio_single_wrap .images_list ul li{
 	margin: 0px 0px 50px 0px;
 	float: left;
 	width: 100%;
+
 }
 .arlo_tm_portfolio_single_wrap .images_list ul li:last-child{margin-bottom: 0px;}
-.arlo_tm_portfolio_single_wrap .images_list ul li img{min-width: 100%;}
+.arlo_tm_portfolio_single_wrap .images_list ul li iframe{	display: inline-block;;min-width: 100%;}
 .arlo_tm_portfolio_single_wrap .pagination_wrap{
 	width: 100%;
 	height: auto;
