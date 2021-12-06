@@ -19,34 +19,39 @@ router.get('/portfolio-single1', (req, res) => {
 	res.render('portfolio-single1', data) // render home.mustache
 })
 
-router.get('/portfolio-single2', (req, res) => {
+router.get('/portfolio-single8', (req, res) => {
 	const data = req.context // {cdn:<STRING>, global:<OBJECT>}
-	res.render('portfolio-single2', data) // render home.mustache
+	res.render('portfolio-single8', data) // render home.mustache
 })
 
-router.get('/portfolio-single3', (req, res) => {
+router.get('/portfolio-single11', (req, res) => {
 	const data = req.context // {cdn:<STRING>, global:<OBJECT>}
-	res.render('portfolio-single3', data) // render home.mustache
+	res.render('portfolio-single11', data) // render home.mustache
 })
 
-router.get('/portfolio-single4', (req, res) => {
-	const data = req.context // {cdn:<STRING>, global:<OBJECT>}
-	res.render('portfolio-single4', data) // render home.mustache
-})
-
-router.get('/portfolio-single5', (req, res) => {
-	const data = req.context // {cdn:<STRING>, global:<OBJECT>}
-	res.render('portfolio-single5', data) // render home.mustache
-})
-
-router.get('/portfolio-single6', (req, res) => {
-	const data = req.context // {cdn:<STRING>, global:<OBJECT>}
-	res.render('portfolio-single6', data) // render home.mustache
-})
-router.get('/portfolio-single7', (req, res) => {
-	const data = req.context // {cdn:<STRING>, global:<OBJECT>}
-	res.render('portfolio-single7', data) // render home.mustache
-})
+// router.get('/portfolio-single3', (req, res) => {
+// 	const data = req.context // {cdn:<STRING>, global:<OBJECT>}
+// 	res.render('portfolio-single3', data) // render home.mustache
+// })
+//
+// router.get('/portfolio-single4', (req, res) => {
+// 	const data = req.context // {cdn:<STRING>, global:<OBJECT>}
+// 	res.render('portfolio-single4', data) // render home.mustache
+// })
+//
+// router.get('/portfolio-single5', (req, res) => {
+// 	const data = req.context // {cdn:<STRING>, global:<OBJECT>}
+// 	res.render('portfolio-single5', data) // render home.mustache
+// })
+//
+// router.get('/portfolio-single6', (req, res) => {
+// 	const data = req.context // {cdn:<STRING>, global:<OBJECT>}
+// 	res.render('portfolio-single6', data) // render home.mustache
+// })
+// router.get('/portfolio-single7', (req, res) => {
+// 	const data = req.context // {cdn:<STRING>, global:<OBJECT>}
+// 	res.render('portfolio-single7', data) // render home.mustache
+// })
 
 /* *
  * This is an example route which renders various pages based

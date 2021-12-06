@@ -1,0 +1,44 @@
+Hosting Package: Mocha (Linux)
+Domain: tarif-aljnidi.com
+First Payment Amount: $25.23
+Recurring Amount: $37.05
+Billing Cycle: Quarterly
+Next Due Date: 03/02/2022
+
+Login Details
+
+Username: tarifal1
+Password: fY2t2[Xx15FL]a
+
+Control Panel URL: https://131.153.21.137:2083/
+Once your domain has propagated, you may also use https://www.tarif-aljnidi.com:2083/
+
+Server Information
+
+Server Name: nl1
+Server IP: 131.153.21.137
+
+If you are using an existing domain with your new hosting account, you will need to update the nameservers to point to the nameservers listed below.
+
+Nameserver 1: ns1nl.mochahost.com (131.153.22.126)
+Nameserver 2: ns2nl.mochahost.com (198.38.89.40)
+
+Uploading Your Website
+
+Temporarily you may use one of the addresses given below to manage your web site:
+
+Temporary FTP Hostname: 131.153.21.137
+
+And once your domain has propagated you may use the details below:
+
+FTP Hostname: tarif-aljnidi.com
+Webpage URL: http://www.tarif-aljnidi.com
+
+Email Settings
+
+For email accounts that you setup, you should use the following connection details in your email program:
+
+POP3 Host Address: mail.tarif-aljnidi.com
+SMTP Host Address: mail.tarif-aljnidi.com
+Username: The email address you are checking email for
+Password: As specified in your control panel
